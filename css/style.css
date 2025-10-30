@@ -1,0 +1,22 @@
+/*! 2.Розмітка в Bootstrap (2 сітки від xs) */
+.part_2 .other-styles {
+    text-align: center;
+    background-color: #e6e7ff;
+    outline: 1px solid blue;
+}
+.part_3  .container {
+    outline: 1px solid tomato;
+}
+
+.part_3 .other-styles {
+    background-color: #fffce6;
+    outline: 1px dotted green;
+}
+
+
+@media (max-width: 767px) {
+    .asadik{
+    display: none;
+
+}
+}
